@@ -2,7 +2,7 @@
 
 
 Objective :
-To analyze mental health survey data and predict depression using machine learning techniques.
+To analyze mental health survey data and predict depression using machine learning  and deep learning techniques.
 
 Dataset :
 The dataset contains survey responses related to demographic information,lifestyle choices and depression status.
@@ -15,7 +15,7 @@ Train-Test split
 Model training and evaluation
 
 Tools and Liabraries :
-Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+Python, Pandas, Matplotlib, TensorFlow Keras, Scikit-learn
 
 Results :
 The model was able to predict depression with good accuracy.Demographic information and Lifestyle were found to be key factors.
